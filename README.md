@@ -1,9 +1,8 @@
 # CS776A-Deep-Learning-for-Computer-Vision
 Deep Learning for Computer Vision (CS776A): Assignment I
 
-Submitted By: Allan Robey (22111007)
+Submitted By: Allan Robey (22111007)<br>
 email-allanrobey22@iitk.ac.in
-#########################################################################################################################################
 
 ##Libraries Required:
 pytorch
