@@ -25,9 +25,6 @@ math
 
 PIL 
 
-
-######################################################################################################################################
-
 Our main file is allan22111007.ipnyb file . To run the whole file we need to have data_batch_1,data_batch_2,data_batch_3,data_batch_4,data_batch_5,test_batch from the given data set in the our directory .This should take about 2-3 hrs to execute.
 
 Running the whole file is time consuming so we have made pickle files for each question so that we can run each question individually.The details of the pickle files are as follows:<br>
@@ -47,7 +44,7 @@ Running the whole file is time consuming so we have made pickle files for each q
 
 To Run a specific Question you just need to run the cell of that of particular question.<br>
 
-######################################################################################################################################
+
 
 ## Directory Substructure:<br>
 All the files need to be kept at in a single folder.<br>
