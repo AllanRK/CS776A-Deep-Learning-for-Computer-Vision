@@ -3,18 +3,27 @@ Deep Learning for Computer Vision (CS776A): Assignment I
 
 Submitted By: Allan Robey (22111007)
 email-allanrobey22@iitk.ac.in
-###############################################################################################################################################################
+#########################################################################################################################################
 
 ##Libraries Required:
 pytorch
-torchvison 
+
+torchvison
+
 opencv
+
 numpy
+
 matplotlib
+
 pickle
+
 sklearn
+
 random 
+
 math
+
 PIL 
 
 
